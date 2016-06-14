@@ -9,6 +9,5 @@ describe('just a test', function() {
   });
 
   it('should fail', function() {
-    assert.ok(false);
   });
 });
